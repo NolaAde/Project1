@@ -64,5 +64,5 @@ print(favourite_food)
 favourite_book = "rainbow magic"
 print(favourite_book)
 
-favourite = "black panther"
-print(name)
+favourite_character = "black panther"
+print(favourite_character)
