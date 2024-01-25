@@ -48,10 +48,6 @@ print(birth_month)
 height = 4.2
 print(height)
 
-
-
-
-
 best_friend = "Laila Zaid"
 print(best_friend)
 
